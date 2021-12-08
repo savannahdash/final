@@ -117,51 +117,67 @@ p.one{
 #sky{
 	margin: 60px;
 	width: 380px;
-	object-fit: cover;
+	object-fit: scale-down;
+	max-height: fit-content;
 
 }
 
 #halo {
 	margin: 60px;
 	width: 380px;
-
+	object-fit: scale-down;
+	max-height: fit-content;
 }
 
 #coral {
 	margin: 60px;
 	width: 380px;
+	object-fit: scale-down;
+	max-height: fit-content;
 
 }
 
 #tomato{
 	margin: 70px;
 	width: 400px;
+	object-fit: scale-down;
+	max-height: fit-content;
 
 }
 
 #blue{
 	margin: 30px;
 	width: 400px;
+	object-fit: scale-down;
+	max-height: fit-content;
 
 }
 #cookie{
 	margin: 60px;
 	width: 410px;
+	object-fit: scale-down;
+	max-height: fit-content;
 }
 
 #sprinkles{
 	margin: 80px;
 	width: 410px;
+	object-fit: scale-down;
+	max-height: fit-content;
 }
 
 #japan{
 	margin: 80px;
 	width: 410px;
+	object-fit: scale-down;
+	max-height: fit-content;
 }
 
 #music{
 	margin: 50px;
 	width: 438px;
+	object-fit: scale-down;
+	max-height: fit-content;
 }
 
 @keyframes logo {
@@ -1055,39 +1071,30 @@ p.hello {
 	}
 	#sky{
 		width: 300px;
-		object-fit: scale-down;
 	}
 	#halo{
 		width:300px;
-		object-fit: scale-down;
 	}
 	#coral{
 		width: 300px;
-		object-fit: scale-down;
 	}
 	#blue{
 		width: 300px;
-		object-fit: scale-down;
 	}
 	#tomato{
 		width: 300px;
-		object-fit: scale-down;
 	}
 	#cookie{
 		width: 300px;
-		object-fit: scale-down;
 	}
 	#sprinkles{
-		width: 350px;
-		object-fit: scale-down;
+		width: 300px;
 	}
 	#japan{
 		width: 300px;
-		object-fit: scale-down;
 	}
 	#music{
 		width: 300px;
-		object-fit: scale-down;
 	}
 
 	#japanblack:hover{
@@ -1290,77 +1297,59 @@ p.hello {
 		font-size: 45px;
 	}
 	#japanblack:hover{
-		width: 300px;
 		max-height: 500px;
 	}
 	
 	#japanwooden:hover{
-		width: 300px;
 		max-height: 500px;
 	}
 	
 	#japanwhite:hover{
-		width: 300px;
 		max-height: 500px;
 	}
 	#coralblack:hover{
-		width: 300px;
 		max-height: 500px;
 	}
 	#coralwood:hover{
-		width: 300px;
 		max-height: 500px;
 	}
 	#coralwhite:hover{
-		width: 300px;
 		max-height: 500px;
 	}
 	#haloblack:hover{
-		width: 300px;
 		max-height: 500px;
 	}
 	#halowooden:hover{
-		width: 300px;
 		max-height: 500px;
 	}
 	#halowhite:hover{
-		width: 300px;
 		max-height: 500px;
 	}
 	#cloudsblack:hover{
-		width: 300px;
 		max-height: 500px;
 	}
 	#cloudswood:hover{
-		width: 300px;
 		max-height: 500px;
 	}
 	#cloudswhite:hover{
-		width: 300px;
 		max-height: 500px;
 	}
 	#nb:hover{
-		width: 300px;
 		max-height: 500px;
 	}
 	#noteswood:hover{
-		width: 300px;
 		max-height: 500px;
 	}
 	#noteswhite:hover{
-		width: 300px;
 		max-height: 500px;
 	}
 	#sprinklesb:hover{
-		width: 300px;
 		max-height: 500px;
 	}
 	#sprinkleswood:hover{
-		width: 300px;
 		max-height: 500px;
 	}
 	#sprinkleswhite:hover{
-		width: 300px;
 		max-height: 500px;
 	}
 
