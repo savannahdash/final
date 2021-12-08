@@ -117,6 +117,7 @@ p.one{
 #sky{
 	margin: 60px;
 	width: 380px;
+	object-fit: cover;
 
 }
 
@@ -573,6 +574,7 @@ p.shop {
 	max-height: 400px; 
 	overflow: hidden;
 	width: 100%;
+	object-fit: cover;
 }
 
 #sky:hover{
@@ -634,24 +636,28 @@ p.shop {
 	max-height: 400px;
 	overflow: hidden;
 	width: 100%;
+	object-fit: cover;
 }
 
 #japanwhite {
 	max-height: 400px;
 	overflow: hidden;
 	width: 100%;
+	object-fit: cover;
 }
 
 #coralblack {
 	max-height: 400px;
 	overflow: hidden;
 	width: 100%;
+	object-fit: cover;
 }
 
 #coralwood{
 	max-height: 400px;
 	overflow: hidden;
 	width: 100%;
+	object-fit: cover;
 
 }
 
@@ -659,72 +665,85 @@ p.shop {
 	max-height: 400px;
 	overflow: hidden;
 	width: 100%;
+	object-fit: cover;
 }
 
 #haloblack{
 	max-height: 400px;
 	overflow: hidden;
 	width: 100%;
+	object-fit: cover;
 }
 
 #halowooden{
 	max-height: 400px;
 	overflow: hidden;
 	width: 100%;
+	object-fit: cover;
 }
 
 #halowhite{
 	max-height: 400px;
 	overflow: hidden;
 	width: 100%;
+	object-fit: cover;
 }
 
 #cloudsblack {
 	max-height: 400px;
 	overflow: hidden;
 	width: 100%;
+	object-fit: cover;
 }
 
 #cloudswood{
 	max-height: 400px;
 	overflow: hidden;
 	width: 100%;
+	object-fit: cover;
 }
 
 #cloudswhite{
 	max-height: 400px;
 	overflow: hidden;
 	width: 100%;
+	object-fit: cover;
 }
 #nb{
 	max-height: 400px;
 	overflow: hidden;
 	width: 100%;
+	object-fit: cover;
 }
 #noteswood{
 	max-height: 400px;
 	overflow: hidden;
 	width: 100%;
+	object-fit: cover;
 }
 #noteswhite{
 	max-height: 400px;
 	overflow: hidden;
 	width: 100%;
+	object-fit: cover;
 }
 #sprinklesb{
 	max-height: 400px;
 	overflow: hidden;
 	width: 100%;
+	object-fit: cover;
 }
 #sprinkleswood{
 	max-height: 400px;
 	overflow: hidden;
 	width: 100%;
+	object-fit: cover;
 }
 #sprinkleswhite{
 	max-height: 400px;
 	overflow: hidden;
 	width: 100%;
+	object-fit: cover;
 }
 .pantonep1{
 	padding: 30px;
@@ -747,95 +766,61 @@ p.shop {
 
 #japanblack:hover{
 	filter: drop-shadow(10px 10px 10px rgba(0,0,0,.9));
-	width: 300px;
-	max-height: 500px;
 }
 
 #japanwooden:hover{
 	filter: drop-shadow(10px 10px 10px rgba(0,0,0,.9));
-	width: 300px;
-	max-height: 500px;
 }
 
 #japanwhite:hover{
 	filter: drop-shadow(10px 10px 10px rgba(0,0,0,.9));
-	width: 300px;
-	max-height: 500px;
 }
 #coralblack:hover{
 	filter: drop-shadow(10px 10px 10px rgba(0,0,0,.9));
-	width: 300px;
-	max-height: 500px;
 }
 #coralwood:hover{
 	filter: drop-shadow(10px 10px 10px rgba(0,0,0,.9));
-	width: 300px;
-	max-height: 500px;
 }
 #coralwhite:hover{
 	filter: drop-shadow(10px 10px 10px rgba(0,0,0,.9));
-	width: 300px;
-	max-height: 500px;
 }
 #haloblack:hover{
 	filter: drop-shadow(10px 10px 10px rgba(0,0,0,.9));
-	width: 300px;
-	max-height: 500px;
 }
 #halowooden:hover{
 	filter: drop-shadow(10px 10px 10px rgba(0,0,0,.9));
-	width: 300px;
-	max-height: 500px;
 }
 #halowhite:hover{
 	filter: drop-shadow(10px 10px 10px rgba(0,0,0,.9));
-	width: 300px;
-	max-height: 500px;
 }
 #cloudsblack:hover{
 	filter: drop-shadow(10px 10px 10px rgba(0,0,0,.9));
-	width: 300px;
-	max-height: 500px;
 }
 #cloudswood:hover{
 	filter: drop-shadow(10px 10px 10px rgba(0,0,0,.9));
-	width: 300px;
-	max-height: 500px;
 }
 #cloudswhite:hover{
 	filter: drop-shadow(10px 10px 10px rgba(0,0,0,.9));
-	width: 300px;
-	max-height: 500px;
 }
 #nb:hover{
 	filter: drop-shadow(10px 10px 10px rgba(0,0,0,.9));
-	width: 300px;
-	max-height: 500px;
 }
 #noteswood:hover{
 	filter: drop-shadow(10px 10px 10px rgba(0,0,0,.9));
-	width: 300px;
-	max-height: 500px;
 }
 #noteswhite:hover{
 	filter: drop-shadow(10px 10px 10px rgba(0,0,0,.9));
-	width: 300px;
-	max-height: 500px;
 }
 #sprinklesb:hover{
 	filter: drop-shadow(10px 10px 10px rgba(0,0,0,.9));
-	width: 300px;
-	max-height: 500px;
+
 }
 #sprinkleswood:hover{
 	filter: drop-shadow(10px 10px 10px rgba(0,0,0,.9));
-	width: 300px;
-	max-height: 500px;
+
 }
 #sprinkleswhite:hover{
 	filter: drop-shadow(10px 10px 10px rgba(0,0,0,.9));
-	width: 300px;
-	max-height: 500px;
 }
 
 
@@ -967,16 +952,7 @@ p.hello {
 	filter: saturate(3);
 }
 
-.homefooter{
-	font-size: 20px;
-	width:100%;
-	text-align:center;
-	height: 20px;
-	position: relative;
-	bottom: 0px;
-	left: 0px;
-	padding-top: 10px;
-}
+
 
 @media screen and (min-width: 850px){
 	nav{
@@ -1079,31 +1055,98 @@ p.hello {
 	}
 	#sky{
 		width: 300px;
+		object-fit: cover;
 	}
 	#halo{
 		width:300px;
+		object-fit: cover;
 	}
 	#coral{
 		width: 300px;
+		object-fit: cover;
 	}
 	#blue{
 		width: 300px;
+		object-fit: cover;
 	}
 	#tomato{
 		width: 300px;
+		object-fit: cover;
 	}
 	#cookie{
 		width: 300px;
+		object-fit: cover;
 	}
 	#sprinkles{
 		width: 350px;
+		object-fit: cover;
 	}
 	#japan{
 		width: 300px;
+		object-fit: cover;
 	}
 	#music{
 		width: 300px;
+		object-fit: cover;
 	}
+
+	#japanblack:hover{
+		max-height: 450px;
+	}
+	
+	#japanwooden:hover{
+		max-height: 450px;
+	}
+	
+	#japanwhite:hover{
+		max-height: 450px;
+	}
+	#coralblack:hover{
+		max-height: 450px;
+	}
+	#coralwood:hover{
+		max-height: 450px;
+	}
+	#coralwhite:hover{
+		max-height: 450px;
+	}
+	#haloblack:hover{
+		max-height: 450px;
+	}
+	#halowooden:hover{
+		max-height: 450px;
+	}
+	#halowhite:hover{
+		max-height: 450px;
+	}
+	#cloudsblack:hover{
+		max-height: 450px;
+	}
+	#cloudswood:hover{
+		max-height: 450px;
+	}
+	#cloudswhite:hover{
+		max-height: 450px;
+	}
+	#nb:hover{
+		max-height: 450px;
+	}
+	#noteswood:hover{
+		max-height: 450px;
+	}
+	#noteswhite:hover{
+		max-height: 450px;
+	}
+	#sprinklesb:hover{
+		max-height: 450px;
+	}
+	#sprinkleswood:hover{
+		max-height: 450px;
+	}
+	#sprinkleswhite:hover{
+		max-height: 450px;
+	}
+
 	.pantonep1{
 		text-align:left;
 	}
@@ -1245,6 +1288,80 @@ p.hello {
 	}
 	p.shop{
 		font-size: 45px;
+	}
+	#japanblack:hover{
+		width: 300px;
+		max-height: 500px;
+	}
+	
+	#japanwooden:hover{
+		width: 300px;
+		max-height: 500px;
+	}
+	
+	#japanwhite:hover{
+		width: 300px;
+		max-height: 500px;
+	}
+	#coralblack:hover{
+		width: 300px;
+		max-height: 500px;
+	}
+	#coralwood:hover{
+		width: 300px;
+		max-height: 500px;
+	}
+	#coralwhite:hover{
+		width: 300px;
+		max-height: 500px;
+	}
+	#haloblack:hover{
+		width: 300px;
+		max-height: 500px;
+	}
+	#halowooden:hover{
+		width: 300px;
+		max-height: 500px;
+	}
+	#halowhite:hover{
+		width: 300px;
+		max-height: 500px;
+	}
+	#cloudsblack:hover{
+		width: 300px;
+		max-height: 500px;
+	}
+	#cloudswood:hover{
+		width: 300px;
+		max-height: 500px;
+	}
+	#cloudswhite:hover{
+		width: 300px;
+		max-height: 500px;
+	}
+	#nb:hover{
+		width: 300px;
+		max-height: 500px;
+	}
+	#noteswood:hover{
+		width: 300px;
+		max-height: 500px;
+	}
+	#noteswhite:hover{
+		width: 300px;
+		max-height: 500px;
+	}
+	#sprinklesb:hover{
+		width: 300px;
+		max-height: 500px;
+	}
+	#sprinkleswood:hover{
+		width: 300px;
+		max-height: 500px;
+	}
+	#sprinkleswhite:hover{
+		width: 300px;
+		max-height: 500px;
 	}
 
 	/*Playlist Page*/
