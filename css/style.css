@@ -188,6 +188,7 @@ p.one{
 	body{
 		background-attachment: scroll;
 	}
+
 } 
 
 h1{
@@ -218,6 +219,7 @@ footer {
 	padding-top: 10px;
 
   }
+
 
   /* Contact Page */
 
@@ -251,7 +253,7 @@ footer {
 	font-weight: bold;
   }
   input[type=submit]:hover {
-	background-color: #80db86;
+	background-color: #01810a;
   }
 
   .container1 {
@@ -263,27 +265,57 @@ footer {
   }
   .touch{
 	font-size: 30px;
-    margin: 15px;
+    margin: 6px;
     position: relative;
-    top: -5px;
-	font-weight: 500;
-	padding: 23px;
+    top: -8px;
+    font-weight: 500;
+    padding: 13px;
+}
+
+.contactpage{
+	padding-bottom: 50px;
+}
+
+#fname:hover{
+	font-size:larger;	
+}
+#lname:hover{
+	font-size:larger;	
+}
+
+#email:hover{
+	font-size:larger;	
+}
+
+#subject:hover{
+	font-size:larger;	
 }
 /* Playlist page */
 
 p.two{
-	font-size: 20px;
+	font-size: 26px;
 	margin: 30px;
 	position:relative;
 	top: 10px;
 	font-weight: 300;
 	text-align: center;
+	font-weight: 500
 }
 #dontoliver {
 	display: flex;
 	flex-direction: column;
 	align-items: center;
 }
+
+.name_of_artist{
+	text-align: center;
+	padding: 10px;
+	font-weight: 417;
+	text-decoration: overline;
+	font-size: 22px;
+
+}
+
 #don_tracklist{
 	width: 300px;
 }
@@ -324,16 +356,24 @@ p.two{
 
 .biod:hover{
 	filter: drop-shadow(10px 10px 10px rgba(0,0,0,.5));
+	font-weight: bold;
+	font-size: 20px;
 }
 
 .s_bio:hover{
 	filter: drop-shadow(10px 10px 10px rgba(0,0,0,.5));
+	font-weight: bold;
+	font-size: 20px;
 }
 .b_bio:hover{
 	filter: drop-shadow(10px 10px 10px rgba(0,0,0,.5));
+	font-weight: bold;
+	font-size: 20px;
 }
 .m_bio:hover{
 	filter: drop-shadow(10px 10px 10px rgba(0,0,0,.5));
+	font-weight: bold;
+	font-size: 20px;
 }
 #don1 {
 	margin: 10px;
@@ -533,10 +573,9 @@ p.shop {
 	max-height: 400px; 
 	overflow: hidden;
 	width: 100%;
-
 }
 
-#sky:hover {
+#sky:hover{
 	border:5px solid gray;
 	filter: drop-shadow(10px 10px 10px rgba(0,0,0,.9));
 }
@@ -575,12 +614,19 @@ p.shop {
 }
 .pantonep1:hover{
 	filter: drop-shadow(10px 10px 10px rgba(0,0,0,.5));
+	font-weight: 450;
+	font-size: 20px;
+
 }
 .pantonep2:hover{
 	filter: drop-shadow(10px 10px 10px rgba(0,0,0,.5));
+	font-weight: 450;
+	font-size: 20px;
 }
 .pantonep3:hover{
 	filter: drop-shadow(10px 10px 10px rgba(0,0,0,.5));
+	font-weight: 450;
+	font-size: 20px;
 }
 
 
@@ -701,59 +747,95 @@ p.shop {
 
 #japanblack:hover{
 	filter: drop-shadow(10px 10px 10px rgba(0,0,0,.9));
+	width: 300px;
+	max-height: 500px;
 }
 
 #japanwooden:hover{
 	filter: drop-shadow(10px 10px 10px rgba(0,0,0,.9));
+	width: 300px;
+	max-height: 500px;
 }
 
 #japanwhite:hover{
 	filter: drop-shadow(10px 10px 10px rgba(0,0,0,.9));
+	width: 300px;
+	max-height: 500px;
 }
 #coralblack:hover{
 	filter: drop-shadow(10px 10px 10px rgba(0,0,0,.9));
+	width: 300px;
+	max-height: 500px;
 }
 #coralwood:hover{
 	filter: drop-shadow(10px 10px 10px rgba(0,0,0,.9));
+	width: 300px;
+	max-height: 500px;
 }
 #coralwhite:hover{
 	filter: drop-shadow(10px 10px 10px rgba(0,0,0,.9));
+	width: 300px;
+	max-height: 500px;
 }
 #haloblack:hover{
 	filter: drop-shadow(10px 10px 10px rgba(0,0,0,.9));
+	width: 300px;
+	max-height: 500px;
 }
 #halowooden:hover{
 	filter: drop-shadow(10px 10px 10px rgba(0,0,0,.9));
+	width: 300px;
+	max-height: 500px;
 }
 #halowhite:hover{
 	filter: drop-shadow(10px 10px 10px rgba(0,0,0,.9));
+	width: 300px;
+	max-height: 500px;
 }
 #cloudsblack:hover{
 	filter: drop-shadow(10px 10px 10px rgba(0,0,0,.9));
+	width: 300px;
+	max-height: 500px;
 }
 #cloudswood:hover{
 	filter: drop-shadow(10px 10px 10px rgba(0,0,0,.9));
+	width: 300px;
+	max-height: 500px;
 }
 #cloudswhite:hover{
 	filter: drop-shadow(10px 10px 10px rgba(0,0,0,.9));
+	width: 300px;
+	max-height: 500px;
 }
 #nb:hover{
 	filter: drop-shadow(10px 10px 10px rgba(0,0,0,.9));
+	width: 300px;
+	max-height: 500px;
 }
 #noteswood:hover{
 	filter: drop-shadow(10px 10px 10px rgba(0,0,0,.9));
+	width: 300px;
+	max-height: 500px;
 }
 #noteswhite:hover{
 	filter: drop-shadow(10px 10px 10px rgba(0,0,0,.9));
+	width: 300px;
+	max-height: 500px;
 }
 #sprinklesb:hover{
 	filter: drop-shadow(10px 10px 10px rgba(0,0,0,.9));
+	width: 300px;
+	max-height: 500px;
 }
 #sprinkleswood:hover{
 	filter: drop-shadow(10px 10px 10px rgba(0,0,0,.9));
+	width: 300px;
+	max-height: 500px;
 }
 #sprinkleswhite:hover{
 	filter: drop-shadow(10px 10px 10px rgba(0,0,0,.9));
+	width: 300px;
+	max-height: 500px;
 }
 
 
@@ -823,16 +905,23 @@ p.hello {
 }
 .p1home:hover{
 	filter: drop-shadow(10px 10px 10px rgba(0,0,0,.5));
+	font-weight: bold;
+	font-size: 20px;
 }
 .p2home:hover{
 	filter: drop-shadow(10px 10px 10px rgba(0,0,0,.5));
+	font-weight: bold;
+	font-size: 20px;
 }
 .p3home:hover{
 	filter: drop-shadow(10px 10px 10px rgba(0,0,0,.5));
+	font-weight: bold;
+	font-size: 20px;
 }
 
 #me:hover{
 	filter: drop-shadow(10px 10px 10px rgba(0,0,0,.9));
+	width: 300px;
 }
 .gallery{
 	color:blue;
@@ -847,21 +936,25 @@ p.hello {
 	color: rgb(226, 145, 159);
 	text-decoration: none;
 	font-weight: bold;
+	font-size: larger;
 }
 .playlist:hover{
 	color: rgb(226, 145, 159);
 	text-decoration: none;
 	font-weight: bold;
+	font-size: larger;
 }
 .contact:hover{
 	color: rgb(226, 145, 159);
 	text-decoration: none;
 	font-weight: bold;
+	font-size: larger;
 }
 
 #circle1:hover{
 	filter: drop-shadow(10px 10px 10px rgba(0,0,0,.9));
 	filter: saturate(3);
+	
 }
 
 #circle2:hover{
@@ -874,20 +967,27 @@ p.hello {
 	filter: saturate(3);
 }
 
+.homefooter{
+	font-size: 20px;
+	width:100%;
+	text-align:center;
+	height: 20px;
+	position: relative;
+	bottom: 0px;
+	left: 0px;
+	padding-top: 10px;
+}
+
 @media screen and (min-width: 850px){
-	header{
-		flex-direction: row;
-	}
 	nav{
         width: 100%;
 	}
 	.links{
-        flex-direction: row;
+		justify-content: space-around;
 		width:100%;
-		justify-content: flex-end;
 	}
 	.mylogo{
-		width: 66px;
+		width: 87px;
 	}
 	p.shop {
 		text-align:center
@@ -914,6 +1014,10 @@ p.hello {
 		position:sticky;
 		align-self: flex-start;
 		margin-top: -34px;
+	}
+	#me:hover{
+		width: 400px;
+		padding: 10px;
 	}
 	.less-info {
 		display:flex;
@@ -1025,7 +1129,7 @@ p.hello {
 		flex-wrap: wrap;
 		justify-content: space-around;
 	}
-	
+
 	#albums{
 		margin-left: 10px;
 	}
@@ -1051,13 +1155,139 @@ p.hello {
 	#swimming{
 		margin-left: 10px;
 	}
-
+	
 	.touch{
-		text-align: center;
+		text-align:center;
 	}
+
 
 }
 
-@media screen and (min-width: 1300px){
+@media screen and (min-width: 1260px){
+	header{
+		flex-direction: row;
+	}
+	nav{
+        width: 100%;
+	}
+	.links{
+        flex-direction: row;
+		width:100%;
+		justify-content: flex-end;
+	}
+	.mylogo{
+		width: 66px;
+	}
+	/*Home Page*/
+	p.name{
+		text-align: center;
+		font-size: 47px;
+	}
+	#me{
+		width: 500px;
+		margin-top: 37px;
+		margin: 79px;
+	}
+	h2{
+		margin-left: 75px;
+	}
+	p.hello{
+		margin-left: 69px;
+	}
+
+	#circle1{
+		margin-left: 98px;
+	}
+	#circle2{
+		margin-left: 79px;
+	}
+
+	#circle3{
+		margin-left: 116px;
+	}
+	.gallery{
+		margin-left: 106px;
+	}
+
+	.playlist{
+		margin-left: 120px;
+	}
+
+	.contact{
+		margin-left: 120px;
+	}
+	.p1home{
+		bottom: -11px;
+		right: 385px;
+		font-size: 22px;
+	}
+	.p2home{
+		bottom: -56px;
+		right: 384px;
+		font-size: 22px;
+	}
+	.p3home{
+		bottom: -107px;
+		right: 385px;
+		padding-bottom: 55px;
+		font-size: 22px;
+	}
+	.homefooter{
+		padding-top: 75px;
+	}
+	#me:hover{
+		width: 530px;
+	}
+
+	/*Gallery Page*/
+	p.one{
+		font-size: 40px;
+	}
+	p.shop{
+		font-size: 45px;
+	}
+
+	/*Playlist Page*/
+
+	p.two{
+		font-size: 30px;
+		text-align: left;
+	}
+	.name_of_artist{
+		text-align: left;
+		text-decoration: underline;
+		margin-left: 7px;
+		font-size: 24px;
+	}
+	.biod{
+		text-align: left;
+		padding: 14px;
+		text-indent: unset;
+	}
+
+	.s_bio{
+		text-align: left;
+		padding: 14px;
+		text-indent: unset;
+	}
+	.b_bio{
+		text-align: left;
+		padding: 14px;
+		text-indent: unset;
+	}
+
+	.m_bio{
+		text-align: left;
+		padding: 14px;
+		text-indent: unset;
+	}
+
+	/*Contact Page*/
+	.touch{
+		font-size: 40px;
+		text-align: left;
+	}
+
+
 
 }
