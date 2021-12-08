@@ -574,7 +574,7 @@ p.shop {
 	max-height: 400px; 
 	overflow: hidden;
 	width: 100%;
-	object-fit: cover;
+	object-fit: scale-down;
 }
 
 #sky:hover{
@@ -636,28 +636,28 @@ p.shop {
 	max-height: 400px;
 	overflow: hidden;
 	width: 100%;
-	object-fit: cover;
+	object-fit: scale-down;
 }
 
 #japanwhite {
 	max-height: 400px;
 	overflow: hidden;
 	width: 100%;
-	object-fit: cover;
+	object-fit: scale-down;
 }
 
 #coralblack {
 	max-height: 400px;
 	overflow: hidden;
 	width: 100%;
-	object-fit: cover;
+	object-fit: scale-down;
 }
 
 #coralwood{
 	max-height: 400px;
 	overflow: hidden;
 	width: 100%;
-	object-fit: cover;
+	object-fit: scale-down;
 
 }
 
@@ -665,85 +665,85 @@ p.shop {
 	max-height: 400px;
 	overflow: hidden;
 	width: 100%;
-	object-fit: cover;
+	object-fit: scale-down;
 }
 
 #haloblack{
 	max-height: 400px;
 	overflow: hidden;
 	width: 100%;
-	object-fit: cover;
+	object-fit: scale-down;
 }
 
 #halowooden{
 	max-height: 400px;
 	overflow: hidden;
 	width: 100%;
-	object-fit: cover;
+	object-fit: scale-down;
 }
 
 #halowhite{
 	max-height: 400px;
 	overflow: hidden;
 	width: 100%;
-	object-fit: cover;
+	object-fit: scale-down;
 }
 
 #cloudsblack {
 	max-height: 400px;
 	overflow: hidden;
 	width: 100%;
-	object-fit: cover;
+	object-fit: scale-down;
 }
 
 #cloudswood{
 	max-height: 400px;
 	overflow: hidden;
 	width: 100%;
-	object-fit: cover;
+	object-fit: scale-down;
 }
 
 #cloudswhite{
 	max-height: 400px;
 	overflow: hidden;
 	width: 100%;
-	object-fit: cover;
+	object-fit: scale-down;
 }
 #nb{
 	max-height: 400px;
 	overflow: hidden;
 	width: 100%;
-	object-fit: cover;
+	object-fit: scale-down;
 }
 #noteswood{
 	max-height: 400px;
 	overflow: hidden;
 	width: 100%;
-	object-fit: cover;
+	object-fit: scale-down;
 }
 #noteswhite{
 	max-height: 400px;
 	overflow: hidden;
 	width: 100%;
-	object-fit: cover;
+	object-fit: scale-down;
 }
 #sprinklesb{
 	max-height: 400px;
 	overflow: hidden;
 	width: 100%;
-	object-fit: cover;
+	object-fit: scale-down;
 }
 #sprinkleswood{
 	max-height: 400px;
 	overflow: hidden;
 	width: 100%;
-	object-fit: cover;
+	object-fit: scale-down;
 }
 #sprinkleswhite{
 	max-height: 400px;
 	overflow: hidden;
 	width: 100%;
-	object-fit: cover;
+	object-fit: scale-down;
 }
 .pantonep1{
 	padding: 30px;
@@ -1055,39 +1055,39 @@ p.hello {
 	}
 	#sky{
 		width: 300px;
-		object-fit: cover;
+		object-fit: scale-down;
 	}
 	#halo{
 		width:300px;
-		object-fit: cover;
+		object-fit: scale-down;
 	}
 	#coral{
 		width: 300px;
-		object-fit: cover;
+		object-fit: scale-down;
 	}
 	#blue{
 		width: 300px;
-		object-fit: cover;
+		object-fit: scale-down;
 	}
 	#tomato{
 		width: 300px;
-		object-fit: cover;
+		object-fit: scale-down;
 	}
 	#cookie{
 		width: 300px;
-		object-fit: cover;
+		object-fit: scale-down;
 	}
 	#sprinkles{
 		width: 350px;
-		object-fit: cover;
+		object-fit: scale-down;
 	}
 	#japan{
 		width: 300px;
-		object-fit: cover;
+		object-fit: scale-down;
 	}
 	#music{
 		width: 300px;
-		object-fit: cover;
+		object-fit: scale-down;
 	}
 
 	#japanblack:hover{
