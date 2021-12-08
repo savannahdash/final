@@ -118,7 +118,7 @@ p.one{
 	margin: 60px;
 	width: 380px;
 	object-fit: scale-down;
-	max-height: auto;
+	max-height: 300px;
 
 }
 
@@ -126,14 +126,14 @@ p.one{
 	margin: 60px;
 	width: 380px;
 	object-fit: scale-down;
-	max-height: auto;
+	max-height: 300px;
 }
 
 #coral {
 	margin: 60px;
 	width: 380px;
 	object-fit: scale-down;
-	max-height: auto;
+	max-height: 300px;
 
 }
 
@@ -141,7 +141,7 @@ p.one{
 	margin: 70px;
 	width: 400px;
 	object-fit: scale-down;
-	max-height: auto;
+	max-height: 300px;
 
 }
 
@@ -149,35 +149,35 @@ p.one{
 	margin: 30px;
 	width: 400px;
 	object-fit: scale-down;
-	max-height: auto;
+	max-height: 300px;
 
 }
 #cookie{
 	margin: 60px;
 	width: 410px;
 	object-fit: scale-down;
-	max-height: auto;
+	max-height: 300px;
 }
 
 #sprinkles{
 	margin: 80px;
 	width: 410px;
 	object-fit: scale-down;
-	max-height: auto;
+	max-height: 300px;
 }
 
 #japan{
 	margin: 80px;
 	width: 410px;
 	object-fit: scale-down;
-	max-height: auto;
+	max-height: 300px;
 }
 
 #music{
 	margin: 50px;
 	width: 438px;
 	object-fit: scale-down;
-	max-height: auto;
+	max-height: 300px;
 }
 
 @keyframes logo {
