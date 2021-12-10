@@ -200,8 +200,13 @@ p.one{
 	body{
 		background-attachment: scroll;
 	}
+	.flip-card:hover .flip-card-inner{
+        transform: rotateY( 0deg ) ;
+        transition: initial;
+	  }
+	
+}
 
-} 
 
 h1{
 	text-align: center;
@@ -1381,6 +1386,11 @@ p.hello {
 		text-align: left;
 		padding: 14px;
 		text-indent: unset;
+	}
+	.flip-card-inner{
+		text-align: left;
+		margin-left: 10px;
+		transition: transform 0.2s;
 	}
 
 	/*Contact Page*/
